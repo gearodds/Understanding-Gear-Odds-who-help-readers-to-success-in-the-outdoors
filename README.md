@@ -5,4 +5,3 @@ The goal is to give readers the right information based in science about outdoor
 The gear odds don't gives you product and they don't have any store that you can buy. Gear Odds provides only useful contents that require by globally. If you are an outdoor person, then Gear Odds is the guidebook.
 
 The link for Gear Odds website: <a href="https://gearodds.com/">https://gearodds.com/</a>
-![fb](https://user-images.githubusercontent.com/95409145/144399296-b0b5c6ae-c1c4-46f2-a9ce-2d78fe24fffb.png)
